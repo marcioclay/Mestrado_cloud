@@ -18,8 +18,8 @@ Para criar uma infraestrutura com várias máquinas (ex: um cluster com 1 Contro
 
   Imagens:
 
-   <img width="1366" height="643" alt="1" src="https://github.com/user-attachments/assets/b1736c65-f116-4f0d-9163-32ca98b0a0a0" />
+   <img width="1200" height="543" alt="1" src="https://github.com/user-attachments/assets/b1736c65-f116-4f0d-9163-32ca98b0a0a0" />
 
-   <img width="1366" height="643" alt="2" src="https://github.com/user-attachments/assets/7c47d63f-d25a-4db4-a524-b016429b87f5" />
+   <img width="1200" height="543" alt="2" src="https://github.com/user-attachments/assets/7c47d63f-d25a-4db4-a524-b016429b87f5" />
 
 
