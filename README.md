@@ -13,3 +13,13 @@ Na automação com Terraform, não instalamos o SO do zero via ISO. O processo f
 Para criar uma infraestrutura com várias máquinas (ex: um cluster com 1 Control Plane e 2 Workers) sem repetir grandes blocos de código, utilizamos as seguintes funções do Terraform:
 * **Mapeamento (`locals`):** Definimos um dicionário de dados contendo as características de cada nó do cluster (vCPUs, memória RAM e disco).
 * **Laço de repetição (`for_each`):** No bloco de criação do recurso (`libvirt_domain`), usamos a diretiva `for_each` para iterar sobre o dicionário local. Assim, com um único `terraform apply`, o Terraform provisiona e configura todas as VMs paralelamente.
+
+  ---
+
+  Imagens:
+
+   <img width="1366" height="643" alt="1" src="https://github.com/user-attachments/assets/b1736c65-f116-4f0d-9163-32ca98b0a0a0" />
+
+   <img width="1366" height="643" alt="2" src="https://github.com/user-attachments/assets/7c47d63f-d25a-4db4-a524-b016429b87f5" />
+
+
